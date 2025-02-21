@@ -1,3 +1,5 @@
+Check out the websit here: https://smit4372.github.io/mind-zen/
+
 ## Technical Specifications 
 
 ### Navbar
